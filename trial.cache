@@ -10,6 +10,9 @@ sub_info  0B  1.822G  2025-03-05 16:30:44+08:00  (剩余 1.822G 13:12:05.068021)
 sub_url  https://network.ayucloud.nl/link/7mt6UL6zu2pQNGwm?clash=1
 time  2025-03-04 16:30:45.936395+08:00
 type  sspanel
+保存base64/clash订阅失败  _gen_base64_config: no content
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [qlgq.top]
 
