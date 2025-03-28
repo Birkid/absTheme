@@ -7,11 +7,12 @@ email  dpbrfxe135@pastryofistanbul.com
 last_checkin  2025-03-28 01:40:15.362659+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.902G  2025-03-28 17:26:52+08:00  (剩余 1.902G -1 day, 23:59:54.098956)
+sub_info  0B  0B  2025-03-28 17:26:52+08:00  (剩余 0B -1 day, 23:42:27.092541)
 sub_url  https://network.ayucloud.nl/link/dn4veWrP1VboZ3xn?clash=1
 time  2025-03-27 17:26:53.522176+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(pmrhexge554@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(vrlqhkecz64@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
