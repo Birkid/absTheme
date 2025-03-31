@@ -3,17 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  xxxhi.cc  smartnator.com  psnator.com
 buy  pass
-email  dpbrfxe135@pastryofistanbul.com
-last_checkin  2025-03-28 01:40:15.362659+08:00
+email  chodlmbwm789@guerrillamail.de
+last_checkin  2025-03-31 19:40:57.998084+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-03-28 17:26:52+08:00  (剩余 0B -4 days, 22:04:27.057404)
-sub_url  https://network.ayucloud.nl/link/dn4veWrP1VboZ3xn?clash=1
-time  2025-03-27 17:26:53.522176+08:00
+sub_info  0B  1.103G  2025-04-01 19:40:57+08:00  (剩余 1.103G 23:59:55.673638)
+sub_url  https://network.ayucloud.nl/link/DNZJS2siAGzHPtDz?clash=1
+time  2025-03-31 19:40:59.036630+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(bbqcykkw207@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
