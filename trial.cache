@@ -7,10 +7,11 @@ email  umhrjtsno531@oakon.com
 last_checkin  2025-04-05 05:22:39.542886+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.146G  2025-04-06 05:22:39+08:00  (剩余 1.146G 13:43:13.914029)
+sub_info  0B  1.146G  2025-04-06 05:22:39+08:00  (剩余 1.146G 12:54:41.786249)
 sub_url  https://network.ayucloud.nl/link/E41laZuojyY2rIXl?clash=1
 time  2025-04-05 05:22:40.616932+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [qlgq.top]
 
