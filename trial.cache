@@ -7,11 +7,11 @@ email  xapdaydg196@oakon.com
 last_checkin  2025-04-28 14:43:33.984847+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.04G  2025-04-29 14:43:33+08:00  (剩余 1.04G 11:03:40.275595)
+sub_info  0B  1.04G  2025-04-29 14:43:33+08:00  (剩余 1.04G 10:18:20.592468)
 sub_url  https://network.ayucloud.nl/link/xf1RHlhQuALjI9BL?clash=1
 time  2025-04-28 14:43:35.059796+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
