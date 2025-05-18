@@ -7,11 +7,11 @@ email  xmjtosir844@ipiso.tmmad.com
 last_checkin  2025-05-18 20:48:54.372583+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.141G  2025-05-19 20:48:54+08:00  (剩余 1.141G 16:06:11.264775)
+sub_info  0B  1.141G  2025-05-19 20:48:54+08:00  (剩余 1.141G 15:26:40.920713)
 sub_url  https://network.ayucloud.nl/link/HuGNElm1n9rXu9pL?clash=1
 time  2025-05-18 20:48:55.322273+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
