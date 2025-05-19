@@ -12,6 +12,7 @@ sub_url  https://network.ayucloud.nl/link/HuGNElm1n9rXu9pL?clash=1
 time  2025-05-18 20:48:55.322273+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
