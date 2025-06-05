@@ -2,17 +2,14 @@
 auth_path  user
 auto_invite  F
 buy  pass
-email  kuvlqhxkh234@smartnator.com
-last_checkin  2025-06-02 04:44:38.250768+08:00
+email  niftnunc697@guerrillamail.de
+last_checkin  2025-06-05 18:51:20.600434+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-06-02 23:43:02+08:00  (剩余 0B -3 days, 5:10:54.310073)
-sub_url  https://network.ayucloud.nl/link/bDIVKZMapaMhvjF6?clash=1
-time  2025-06-01 23:43:03.457924+08:00
+sub_info  0B  1.071G  2025-06-06 18:51:20+08:00  (剩余 1.071G 23:59:55.686440)
+sub_url  https://network.ayucloud.nl/link/UobA5MC6Pp2JYEC1?clash=1
+time  2025-06-05 18:51:21.527495+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(apttytl83@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4820ab9fc0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
