@@ -7,11 +7,11 @@ email  ymfhubqh891@vapechroma.com
 last_checkin  2025-06-14 03:40:38.982778+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.173G  2025-06-15 03:40:38+08:00  (剩余 1.173G 2:19:25.173597)
+sub_info  0B  1.173G  2025-06-15 03:40:38+08:00  (剩余 1.173G 1:59:13.134385)
 sub_url  https://ayucloud.services/link/4wkFYX4v7RDQKguN?clash=1
 time  2025-06-14 03:40:39.939534+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
