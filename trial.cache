@@ -7,12 +7,12 @@ email  okqxviqpf663@grr.la
 last_checkin  2025-06-16 11:40:10.734209+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-06-16 20:51:00+08:00  (剩余 0B -1 day, 23:10:37.540752)
+sub_info  0B  0B  2025-06-16 20:51:00+08:00  (剩余 0B -1 day, 22:23:13.964307)
 sub_url  https://network.ayucloud.nl/link/ZlSJiHRRMjlUCioE?clash=1
 time  2025-06-15 20:51:02.165198+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-更新订阅链接/续费续签失败  注册失败(iwkjzba944@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(cggnewph319@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
