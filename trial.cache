@@ -7,12 +7,12 @@ email  vzpaauuu235@tomystudio.com
 last_checkin  2025-06-19 01:47:08.821929+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  136M  2025-06-18 04:47:24+08:00  (剩余 136M -1 day, 1:06:32.999296)
+sub_info  0B  136M  2025-06-18 04:47:24+08:00  (剩余 136M -2 days, 23:58:50.752409)
 sub_url  https://network.ayucloud.nl/link/Iw2PztabFBvGCxPX?clash=1
 time  2025-06-17 04:47:25.954697+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(tawtlsopj762@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
