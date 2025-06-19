@@ -7,11 +7,10 @@ email  kgcadwli581@mail.wvwvw.tech
 last_checkin  2025-06-19 06:45:23.460881+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.038G  2025-06-20 06:45:23+08:00  (剩余 1.038G 16:58:58.682716)
+sub_info  0B  1.038G  2025-06-20 06:45:23+08:00  (剩余 1.038G 15:19:51.787575)
 sub_url  https://network.ayucloud.nl/link/n8nU8TqSU63hnpqa?clash=1
 time  2025-06-19 06:45:24.420525+08:00
 type  sspanel
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/n8nU8TqSU63hnpqa?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6e14e2e230>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
