@@ -7,10 +7,11 @@ email  powoxebx141@guerrillamail.net
 last_checkin  2025-07-19 18:31:38.695660+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.11G  2025-07-20 18:31:38+08:00  (剩余 1.11G 18:45:33.014387)
+sub_info  0B  1.11G  2025-07-20 18:31:38+08:00  (剩余 1.11G 17:59:14.909461)
 sub_url  https://network.ayucloud.nl/link/2RcPoQ3dxDV8y6xf?clash=1
 time  2025-07-19 18:31:39.642567+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
