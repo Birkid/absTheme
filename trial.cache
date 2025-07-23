@@ -7,10 +7,11 @@ email  hxyijrhq459@tomystudio.com
 last_checkin  2025-07-23 06:27:37.677248+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.156G  2025-07-24 06:27:37+08:00  (剩余 1.156G 6:55:41.913440)
+sub_info  0B  1.156G  2025-07-24 06:27:37+08:00  (剩余 1.156G 5:50:55.387369)
 sub_url  https://network.ayucloud.nl/link/UbdmB7hK0Xrc2m5y?clash=1
 time  2025-07-23 06:27:38.563761+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
