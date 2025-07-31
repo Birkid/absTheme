@@ -7,12 +7,12 @@ email  hyelhdckg240@teihu.com
 last_checkin  2025-07-31 03:42:50.735296+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-07-31 19:45:25+08:00  (剩余 0B -1 day, 21:57:30.598030)
+sub_info  0B  0B  2025-07-31 19:45:25+08:00  (剩余 0B -1 day, 21:14:57.266244)
 sub_url  https://network.ayucloud.nl/link/O2slUbUt011pl2BN?clash=1
 time  2025-07-30 19:45:27.288942+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(icchsxlt836@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(xzmyetu686@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
