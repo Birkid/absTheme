@@ -3,17 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  xxxhi.cc  femailtor.com  lista.cc  smartnator.com  mydefipet.live  psnator.com
 buy  pass
-email  aqnkdql24@teihu.com
-last_checkin  2025-08-02 02:40:25.266943+08:00
+email  zmazlcie927@guerrillamail.net
+last_checkin  2025-08-03 04:48:29.242651+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-08-02 22:30:45+08:00  (剩余 0B -1 day, 17:59:19.071703)
-sub_url  https://network.ayucloud.nl/link/SsSD0xRgYH4o96yP?clash=1
-time  2025-08-01 22:30:47.015371+08:00
+sub_info  0B  1.166G  2025-08-04 04:48:28+08:00  (剩余 1.166G 23:59:53.824951)
+sub_url  https://network.ayucloud.nl/link/KChisCw7M2Rod3Xx?clash=1
+time  2025-08-03 04:48:30.209424+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(ltkjvqqwn515@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa6b4054af0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
